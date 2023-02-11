@@ -1,0 +1,40 @@
+main {
+    margin: 30px 8px;
+    background: #eee;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+body {
+    text-align: center;
+    color: #333;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+img {
+    height: auto;
+    /* display: block; */
+    max-width: 100%;
+}
+
+ul {
+    text-align: left;
+    max-width: 550px;
+    margin: 32px auto 0 auto;
+    line-height: 44px;
+    font-size: 17px;
+}
+section p{
+    text-align: left;
+display: flex;
+font-size: 17px;
+justify-content: end;
+}
